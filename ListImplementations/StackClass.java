@@ -1,3 +1,7 @@
+/*
+Extends: Vector
+Strength: LIFO push/pop semantics
+*/
 import java.util.Stack;
 public class StackClass {
     public static void main(String[] args){
